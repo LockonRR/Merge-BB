@@ -175,6 +175,7 @@ module.exports = configure(function (ctx) {
             type: 'image/png'
           }
         ]
+
       }
     },
 
